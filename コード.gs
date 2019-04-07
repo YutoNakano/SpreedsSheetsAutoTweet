@@ -57,5 +57,5 @@ function myfunction() {
 
 
 function test() {
-  Logger.log("success");
+  Logger.log(sheet);
 }
