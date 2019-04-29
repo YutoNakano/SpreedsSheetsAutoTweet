@@ -1,1 +1,3 @@
 # SpreedsSheetsAutoTweet
+
+スプレッドシートに入力されたテキストをtweetしてくれるプログラム
